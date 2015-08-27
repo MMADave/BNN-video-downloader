@@ -15,6 +15,7 @@ A second m3u8 specific to the video quality will be downloaded.
 An html will be created with links to video fragment files.
 A delete batch file will be created for file clean-up except for the video file.
 A copy batch file will be created to stitch video fragment files together.
+
 4. Download the video fragments using your favourite download manager like DownThemAll.
 5. Run the copy batch file to do the stitching.
 6. Run the Delete batch file to clean-up the files.
