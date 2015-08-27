@@ -1,7 +1,7 @@
 <snippet>
   <content>
 # BNNvideofetch
-This version is for windows system.
+This version is for windows systems.
 Dependencies are wget to download the 2nd m3u8 file.
 #Usage
 
