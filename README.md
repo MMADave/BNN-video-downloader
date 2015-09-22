@@ -6,7 +6,7 @@ Dependencies are wget to download the 2nd m3u8 file.
 #Usage
 
 1. Find a video from http://m.bnn.ca/video/ you'd like to download.
-http://m.bnn.ca/video/-/f/RZo3/click?itemId=668997&p_p_lifecycle=1 for example.
+http://m.bnn.ca/video/-/f/RZo3/click?itemId=709161&p_p_lifecycle=1 for example.
 2. Download the manifest.m3u8.
 Video comes in a variety of video qualities ranging from 2-16 (lowest to best), even numbers only.
 3. Run script like so: "python BNNvideofetch.py manifest.m3u8 16 optionalcustomfilename"
