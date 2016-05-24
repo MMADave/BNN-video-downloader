@@ -1,6 +1,8 @@
 <snippet>
   <content>
 # BNNvideofetch
+May 2016 - Script no longer works since the website revamp.
+
 This version is for windows systems.
 Dependencies are wget to download the 2nd m3u8 file.
 #Usage
